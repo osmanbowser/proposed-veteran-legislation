@@ -1,1 +1,1 @@
-# proposed-veteran-legislation
+# Proposed Veteran Legislation - US Congress
