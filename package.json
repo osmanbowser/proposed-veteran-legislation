@@ -1,0 +1,29 @@
+{
+  "name": "proposed-veteran-legislation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrape": "esr. /src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osmanbowser/proposed-veteran-legislation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osmanbowser/proposed-veteran-legislation/issues"
+  },
+  "homepage": "https://github.com/osmanbowser/proposed-veteran-legislation#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "esbuild": "^0.14.48",
+    "esbuild-runner": "^2.2.1",
+    "typescript": "^4.7.4"
+  }
+}
